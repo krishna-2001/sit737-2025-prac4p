@@ -1,0 +1,5 @@
+{"level":"info","message":"calculator microservice running on http://localhost:&{port}"}
+{"level":"info","message":"calculator microservice running on http://localhost:&{port}"}
+{"level":"info","message":"operation: &{op},num1: &{num1}, num2: &{num2}, result: 15"}
+{"level":"info","message":"calculator microservice running on http://localhost:&{port}"}
+{"level":"info","message":"operation: &{op},num1: &{num1}, num2: &{num2}, result: 5"}
